@@ -1,0 +1,38 @@
+
+body{
+background-image: url(../imagen/pexels-arthur-brognoli-2327372.jpg)
+
+
+}
+
+.navbar.navbar-expand-lg.bg-secondary{
+    background-color: rgba(159, 161, 166, 0.883)!;
+    
+}
+.list-group{
+    --bs-list-group-bg: transparent;
+}
+   
+i.fa-brands.fa-facebook.fa-2xl,
+i.fa-brands.fa-instagram.fa-2xl,
+i.fa-brands.fa-twitter.fa-2xl
+    {
+color: rgb(66, 66, 73);
+}
+i.fa-brands.fa-facebook.fa-2xl:hover{
+    color:blue;
+}
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color:rgb(229, 86, 117);
+}
+i.fa-brands.fa-twitter.fa-2xl:hover{
+    color:rgb(51, 77, 227);
+}
+
+
+.list-group{
+   --darkreader-bg--bs-list-group-bg: transparent;
+ }
+section.about{
+    margin-top: 05rem;
+}
